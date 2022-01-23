@@ -4,13 +4,13 @@
 <a href="https://wakatime.com/@eb673160-a8b6-4a20-b8f3-7216d1618882">
     <img src="https://wakatime.com/badge/user/eb673160-a8b6-4a20-b8f3-7216d1618882.svg" />
 </a>
-![GitHub User's stars](https://img.shields.io/github/stars/mohanponnapati?style=social)
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/mohanponnapati?style=social">
 <br />
 </p>
 
 ### Hi there, I'm Mohan Ponnapati - 👋
 
-- 🌱 I’m currently learning Java <img align="right" alt="Java" width="20px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
+- 🌱 I’m currently learning Java <img alt="Java" width="24px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
 - 🥅 2022 Goals: Being better me.
 
 ### Connect with me:
