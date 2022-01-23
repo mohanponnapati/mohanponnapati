@@ -11,8 +11,8 @@
 
 ### Hi there, I'm Mohan Ponnapati - 👋
 
-- 🌱 I’m currently learning React🤣
-- 🥅 2020 Goals: Being better me.
+- 🌱 I’m currently learning Java <img align="left" alt="Java" width="20px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
+- 🥅 2022 Goals: Being better me.
 
 ### Connect with me:
 
