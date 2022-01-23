@@ -18,7 +18,7 @@
 <!-- [<img align="left" alt="iAlphaInfamous | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
 <!-- [<img align="left" alt="maneeshvadlapatla | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
 
-[<img align="left" alt="raja_ponnapati/ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="raja_ponnapati/ | Instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 <br />
 
 ### Languages and Tools:
@@ -44,6 +44,6 @@
 
 <!-- [twitter]: https://twitter.com/iAlphaInfamous -->
 
-[instagram]: https://instagram.com/raja.ponnapati
+[instagram]: https://instagram.com/raja_ponnapati
 
 <!-- [linkedin]: https://www.linkedin.com/in/maneeshvadlapatla -->
