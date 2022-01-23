@@ -1,24 +1,25 @@
-### 
+###
+
 <p align="left">
-<a href="https://wakatime.com/@7d71fc1a-3d90-41a3-a37c-334f2b76c876">
-    <img src="https://wakatime.com/badge/user/7d71fc1a-3d90-41a3-a37c-334f2b76c876.svg" />
+<a href="https://wakatime.com/@eb673160-a8b6-4a20-b8f3-7216d1618882">
+    <img src="https://wakatime.com/badge/user/eb673160-a8b6-4a20-b8f3-7216d1618882.svg" />
 </a>
 <br />
 </p>
 
-### [![Twitter Follow](https://img.shields.io/twitter/follow/iAlphaInfamous?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FiAlphaInfamous&screen_name=iAlphaInfamous)
+### ![GitHub User's stars](https://img.shields.io/github/stars/mohanponnapati?style=social)
 
-### Hi there, I'm AlphaInfamous - 👋 
+### Hi there, I'm Mohan Ponnapati - 👋
 
-- 🌱 I’m currently learning everything i get my hands on🤣
-- 🥅 2020 Goals: Aws & Azure certifications, Bringing site online.
+- 🌱 I’m currently learning React🤣
+- 🥅 2020 Goals: Being better me.
 
 ### Connect with me:
 
-[<img align="left" alt="iAlphaInfamous | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="maneeshvadlapatla | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="alpha.infamous/ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<!-- [<img align="left" alt="iAlphaInfamous | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
+<!-- [<img align="left" alt="maneeshvadlapatla | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
 
+[<img align="left" alt="raja_ponnapati/ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 
 ### Languages and Tools:
@@ -37,9 +38,11 @@
 <br />
 
 ### 📕 GitHub Stats
-<img align="left" alt="AlphaInfamous GitHub Stats" src="https://github-stats-alpha-one.vercel.app/api?username=AlphaInfamous&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
 
+<img align="left" alt="Mohan's GitHub Stats" src="https://github-stats-alpha-one.vercel.app/api?username=mohanponnapati&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
 
-[twitter]: https://twitter.com/iAlphaInfamous
-[instagram]: https://instagram.com/alpha.infamous
-[linkedin]: https://www.linkedin.com/in/maneeshvadlapatla
+<!-- [twitter]: https://twitter.com/iAlphaInfamous -->
+
+[instagram]: https://instagram.com/raja.ponnapati
+
+<!-- [linkedin]: https://www.linkedin.com/in/maneeshvadlapatla -->
